@@ -137,3 +137,16 @@ RENAME TO new_table_name;
 2. Different from DELETE statement because DROP TABLE removes the table schema from the database entirely
 Syntax:
 DROP TABLE IF EXISTS mytable;
+
+![Screenshot1](assets/Lesson1.png)
+![Screenshot2](assets/Lesson2.png)
+![Screenshot3](assets/Screenshot(12).png)
+![Screenshot4](assets/Screenshot(13).png)
+![Screenshot5](assets/Screenshot(14).png)
+![Screenshot6](assets/Screenshot(15).png)
+![Screenshot7](assets/Screenshot(16).png)
+![Screenshot8](assets/Screenshot(17).png)
+![Screenshot9](assets/Screenshot(18).png)
+![Screenshot10](assets/Screenshot(19).png)
+![Screenshot11](assets/Screenshot(20).png)
+![Screenshot12](assets/Screenshot(21).png)
